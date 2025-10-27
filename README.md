@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">• Bacharelor's Degre in Exact Science - Federal University of Juiz de Fora (2022 - Present)<br>• Bacharelor's Degre in Computer Science - Federal University of Juiz de Fora (2022 - Present)<br><br>• Languages ​​I speak: PT, EN</p>
+<p align="left">• Bacharelor's Degre in Exact Science - Federal University of Juiz de Fora (2022 - 2025)<br>• Bacharelor's Degre in Computer Science - Federal University of Juiz de Fora (2022 - Present)<br><br>• Languages ​​I speak: PT, EN</p>
 
 ###
 
