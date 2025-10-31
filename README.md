@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-• Bachelor's Degree in Exact Sciences - Federal University of Juiz de Fora (Graduated 🎓)<br>
+• Bachelor's Degree in Exact Sciences - Federal University of Juiz de Fora (Graduated)<br>
 • Bachelor's Degree in Computer Science - Federal University of Juiz de Fora (2022 - Present)<br><br>
 • Languages I speak: Portuguese 🇧🇷, English 🇺🇸
 </p>
